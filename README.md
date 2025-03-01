@@ -23,3 +23,8 @@ Brief Explanation**
 Asian Paints provides high-quality paint solutions** for both interior and exterior surfaces. Their products include a variety of finishes such as **matte, gloss, and textured paints. They also offer color consultation and home décor services to help customers choose the best color combinations for their space.  
 
 OUTPUT:
+
+<img width="1382" alt="Image" src="https://github.com/user-attachments/assets/e397ecfe-8b2a-46ca-a2fb-1afc76f1f65c" />
+
+
+![Image](https://github.com/user-attachments/assets/eed38a11-5538-4f25-b985-a369607dea39)
